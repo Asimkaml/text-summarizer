@@ -9,6 +9,7 @@
 3. Implement abstractive summarization using pre-trained models like BERT or
 GPT with HuggingFace's transformers.
 4. Fine-tune models to improve the quality of summaries.
-5. Test the model on real-world articles and evaluate summary coherence.  
+5. Test the model on real-world articles and evaluate summary coherence.
+     
 ● **Outcome:** A summarization model capable of generating
 concise summaries from long texts.

@@ -1,6 +1,6 @@
-# **Project Objective:** Create a system that summarizes lengthy articles, blogs, or news into concise summaries.
+# Project Objective: Create a system that summarizes lengthy articles, blogs, or news into concise summaries.
 
-### **Task:** Text Summarization
+### Task: Text Summarization
 
 ● **Dataset**: CNN/Daily Mail Dataset  
 ● **Steps:**
